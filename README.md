@@ -9,6 +9,11 @@
 - Openbox
 - Other Gnome based DE’s
 
+### Required Packages
+
+- gtk-engines
+- gtk-engine-murrine
+
 ### Installation
 
 - Download or clone this repo to `~/.themes`
@@ -33,4 +38,5 @@ Libreoffice
 
 ### License
 
-Licensed Under [GNU’s GPL version 3](https://github.com/material-ocean/Material-Ocean/blob/master/LICENSE)
+- Licensed Under GNU’s GPL3
+  > see [LICENSE](./LICENSE) for more info
